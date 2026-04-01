@@ -27,6 +27,7 @@
 - Skip Cutscene
 - Dumb Enemies
 - Mob Vacuum
+- Infinite Technique Points
 - Noclip
 - Chest Teleport
 - Quest Teleport
