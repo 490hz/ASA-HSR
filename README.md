@@ -29,6 +29,7 @@
 - Mob Vacuum
 - Infinite Technique Points
 - Noclip
+- Speed Walk
 - Chest Teleport
 - Quest Teleport
 
@@ -46,6 +47,7 @@
 - UID Changer
 - Hide UI
 - Peeking
+- Max Eidolon
 
 ### Misc
 - FPS Unlocker
