@@ -24,6 +24,7 @@
 
 ### Player
 - Auto Talk
+- Disable Talk Delay
 - Skip Cutscene
 - Dumb Enemies
 - Mob Vacuum
