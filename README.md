@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/765523508255522846/1484992170711712055/asa_mitaka_render_by_bytayta_dfiawa6-pre-removebg-preview.png?ex=69c03e3b&is=69beecbb&hm=71f1e81cbe566d715c19351443972ea41fa6d6963d3cba896670f3364207ee4c&=&format=webp&quality=lossless" width="420"/>
+![ASA](https://github.com/490hz/ASA-HSR/blob/main/1.png)
 
 # ASA (Yoru)
 
@@ -57,4 +57,4 @@
 ---
 
 ## Screenshots
-<img width="1108" height="792" alt="image" src="https://media.discordapp.net/attachments/765523508255522846/1488935741882110162/AB080961-8FB5-4280-9F56-A4E7292F8226.png?ex=69ce96f7&is=69cd4577&hm=2952bf9b7002fa7f27b6fe43247b70285448587246fd3f00c5fd90152108ef96&=&format=webp&quality=lossless&width=910&height=544" />
+![ScreenShot](https://github.com/490hz/ASA-HSR/blob/main/2.png)
