@@ -28,6 +28,7 @@
 - Skip Cutscene
 - Dumb Enemies
 - Mob Vacuum
+- Chest Vacuum
 - Infinite Technique Points
 - Noclip
 - Speed Walk
@@ -49,6 +50,7 @@
 - Hide UI
 - Peeking
 - Max Eidolon
+- Max Light Cone
 
 ### Misc
 - FPS Unlocker
