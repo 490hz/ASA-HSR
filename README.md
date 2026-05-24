@@ -23,25 +23,40 @@
 ## Features
 
 ### Player
-- God Mode
-- Infinite Ammo
-- Infinite Skills
-- Hit Multiplier
-- No Recoil
-- No Spread
+- Auto Talk
+- Disable Talk Delay
+- Skip Cutscene
+- Dumb Enemies
+- Mob Vacuum
+- Chest Vacuum
+- Infinite Technique Points
+- Noclip
+- Speed Walk
+- Chest Teleport
+- Quest Teleport
 
 ### World
-- Global Speed
-- Dumb Enemies
+- Global Speed Changer
+- Battle Speed Changer
+- Auto Battle
+- Auto Puzzle
 
 ### Visuals
+- ESP
+- FOV Changer
 - FPS Indicator
+- Free Camera
+- UID Changer
+- Hide UI
 - Peeking
+- Max Eidolon
+- Max Light Cone
 
 ### Misc
+- FPS Unlocker
 - Custom Menu Scale
 
 ---
 
 ## Screenshots
-![ScreenShot](https://github.com/490hz/ASA-SNOW/blob/main/2.png)
+![ScreenShot](https://github.com/490hz/ASA-HSR/blob/main/2.png)
