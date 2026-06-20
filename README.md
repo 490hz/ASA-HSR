@@ -54,7 +54,8 @@
 
 ### Misc
 - FPS Unlocker
-- Custom Menu Scale
+- Auto Claim Achievement
+- Custom Menu Font
 
 ---
 
