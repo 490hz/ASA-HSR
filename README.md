@@ -41,21 +41,29 @@
 - Auto Battle
 - Auto Puzzle
 
+### Event
+- Chrysos Awoo Championship
+- Cosmicon - Roll On Again
+- Pixel Plane Rumble
+- Saga of Primaveral Blade
+- Sound Hunt: Ninjutsu Inscription
+
 ### Visuals
 - ESP
 - FOV Changer
 - FPS Indicator
+- FPS Unlocker
 - Free Camera
 - UID Changer
 - Hide UI
 - Peeking
 - Max Eidolon
 - Max Light Cone
+- Skin Changer
 
 ### Misc
-- FPS Unlocker
-- Auto Claim Achievement
 - Custom Menu Font
+- Language
 
 ---
 
